@@ -14,8 +14,6 @@ Digital signal processing (DSP) is the process of analyzing and modifying a sign
 
 - Octave
 
-<br/>
-
 ## Appendix
 
 1. Various Sequences
