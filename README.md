@@ -1,5 +1,13 @@
-# CSE3132-Digital-Signal-Processing-Lab
-This repository will contain necessary signal processing codes in Matlab or Python of my course "Digital Signal Processing (CSE3132)".
+<h1 align="center">
+CSE3132-Digital-Signal-Processing-Lab 
+</h1>
+
+<br/>
+<br/>
+
+<h5 align="center">
+Digital signal processing (DSP) is the process of analyzing and modifying a signal to optimize or improve its efficiency or performance. It involves applying various mathematical and computational algorithms to analog and digital signals to produce a signal that's of higher quality than the original signal
+</h5>
 
 ## Language
 
@@ -16,3 +24,7 @@ This repository will contain necessary signal processing codes in Matlab or Pyth
 7. Difference Equation
 8. Discrete Fourier Transform
 9. Butterworth Filter
+
+
+
+### Created with ❤️ by Humayra Khanom
