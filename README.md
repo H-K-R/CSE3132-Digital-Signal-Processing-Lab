@@ -5,7 +5,7 @@ CSE3132-Digital-Signal-Processing-Lab
 <br/>
 
 <h5 align="center">
-Digital signal processing (DSP) is the process of analyzing and modifying a signal to optimize or improve its efficiency or performance. It involves applying various mathematical and computational algorithms to analog and digital signals to produce a signal that's of higher quality than the original signal
+Digital signal processing (DSP) is the process of analyzing and modifying a signal to optimize or improve its efficiency or performance. It involves applying various mathematical and computational algorithms to analog and digital signals to produce a signal that's of higher quality than the original signal.
 </h5>
 
 <br/>
@@ -30,4 +30,4 @@ Digital signal processing (DSP) is the process of analyzing and modifying a sign
 <br/>
 <br/>
 
-## Created with ❤️ by Humayra Khanom
+<h6 align="center"> Made with ❤️ by Humayra Khanom </h6>
