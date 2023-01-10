@@ -30,4 +30,4 @@ Digital signal processing (DSP) is the process of analyzing and modifying a sign
 <br/>
 <br/>
 
-<h6 align="center"> Made with ❤️ by Most Humayra Khanom </h6>
+<h6 align="center"> Made with ❤️ by Most Humayra Khanom Rime </h6>
